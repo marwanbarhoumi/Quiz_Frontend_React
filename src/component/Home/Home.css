@@ -1,0 +1,43 @@
+.quiz-button {
+  
+    border: none; /* pas de bordure */
+    color: white; /* couleur du texte */
+    padding: 16px 32px; /* espacement interne */
+    text-align: center; /* alignement horizontal */
+    text-decoration: none; /* pas de décoration de texte */
+    display: inline-block; /* affichage en ligne */
+    font-size: 16px; /* taille de police */
+    margin: 10px 0; /* espacement externe */
+    cursor: pointer; /* curseur au survol */
+    border-radius: 8px; /* arrondi des coins */
+    transition: background-color 0.3s ease; /* transition de couleur */
+    
+}
+  
+ 
+  .text-styling {
+    font-size: 24px; /* taille de police */
+    font-weight: bold; /* graisse du texte */
+    color: #333; /* couleur du texte */
+    text-align: center; /* alignement horizontal */
+    text-decoration: underline; /* soulignement du texte */
+    margin-bottom: 10px; /* espacement du bas */
+    letter-spacing: 2px; /* espacement des lettres */
+    line-height: 1.5; /* hauteur de ligne */
+    text-transform: uppercase; /* conversion en majuscules */
+    width: 80%;
+     
+  
+  
+   
+
+  
+  }
+  .title-styling {
+    font-size: 60px; /* taille de police */
+    font-weight: bold; /* graisse du texte */
+    text-align: center; /* alignement horizontal */
+    text-transform: uppercase; /* conversion en majuscules */
+    margin-bottom: 20px; /* espacement du bas */
+    padding-top: 0px;
+  }
