@@ -95,7 +95,7 @@ export default function Quiz() {
       </div>
       <div className="exit-button">
         <Link to="/home">
-          <button style={{ }}> Exit</button>
+          <input type="btn" value="Exit" />
         </Link>
       </div>
     </div>

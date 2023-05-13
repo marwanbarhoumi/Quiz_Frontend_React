@@ -2,7 +2,7 @@
   
     border: none; /* pas de bordure */
     color: white; /* couleur du texte */
-    padding: 16px 32px; /* espacement interne */
+   padding-left: 45%;
     text-align: center; /* alignement horizontal */
     text-decoration: none; /* pas de décoration de texte */
     display: inline-block; /* affichage en ligne */
@@ -25,19 +25,18 @@
     letter-spacing: 2px; /* espacement des lettres */
     line-height: 1.5; /* hauteur de ligne */
     text-transform: uppercase; /* conversion en majuscules */
-    width: 80%;
-     
-  
-  
-   
+    width: 70%;
+    padding-left: 15%;
 
   
+  
   }
-  .title-styling {
-    font-size: 60px; /* taille de police */
+  h3 {
+    font-size: 70px; /* taille de police */
     font-weight: bold; /* graisse du texte */
     text-align: center; /* alignement horizontal */
     text-transform: uppercase; /* conversion en majuscules */
     margin-bottom: 20px; /* espacement du bas */
     padding-top: 0px;
+    color: #252d4a;
   }
